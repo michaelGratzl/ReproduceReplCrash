@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CD9ACEA1-A4CD-4AFE-AC32-78B63FF2FB04}|Unit Tests" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReproductionReplCrash/Tests.cs">
+    <Files>
+      <File FileName="ReproductionReplCrash/Tests.cs" Line="33" Column="6" />
+      <File FileName="ReproductionReplCrash/StartAndroidApp.cs" Line="3" Column="24" />
+      <File FileName="ReproductionReplCrash/GlobalParameters.cs" Line="10" Column="2" />
+      <File FileName="ReproductionReplCrash/AppInitializer.cs" Line="15" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReproductionReplCrash PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

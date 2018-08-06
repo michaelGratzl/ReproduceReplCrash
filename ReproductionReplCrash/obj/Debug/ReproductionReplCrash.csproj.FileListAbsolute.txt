@@ -1,0 +1,16 @@
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/NUnit3.TestAdapter.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/NUnit3.TestAdapter.pdb
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/nunit.engine.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/nunit.engine.api.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/Mono.Cecil.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/ReproductionReplCrash.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/ReproductionReplCrash.pdb
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/nunit.framework.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/Xamarin.UITest.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/nunit.framework.pdb
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/nunit.framework.xml
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/bin/Debug/Xamarin.UITest.xml
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/obj/Debug/ReproductionReplCrash.csprojResolveAssemblyReference.cache
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/obj/Debug/ReproductionReplCrash.csproj.CoreCompileInputs.cache
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/obj/Debug/ReproductionReplCrash.dll
+/Users/micgra/Projects/ReproductionReplCrash/ReproductionReplCrash/obj/Debug/ReproductionReplCrash.pdb
